@@ -1,6 +1,16 @@
 # Basys3-clock-alarm-with-buzzer
 Digital clock implemented in vhdl for the Basys 3 Board from Digilent. Small project to complete the [VHDL class](http://legacy.fime.uanl.mx/subdireccion_posgrado/MIOE/PA/Implementacion%20en%20VHDL.pdf) of the Master degree program Master in Engineering of Electrical engineering registered at the [Facultad de Mecanica y Electrica (FIME)](https://www.fime.uanl.mx/) of the [UNIVERSIDAD AUTONOMA DE NUEVO LEON](https://www.uanl.mx/).
 
+# Implementation
+
+1. Debouncer
+2. Decoder from binary to bcd
+3. Decoder from bcd to 7 segment display
+4. Clock devider with multiple output frequencies
+5. Button menu
+6. LED animated ( shift from left to right and right to left)
+7. Buzzer alarm sound ( at 100Hz or  G#2/Ab2 ) 
+
 # Instructions
  ############### THE BUZZER ###############
  
