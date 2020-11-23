@@ -1,7 +1,13 @@
 # Basys3-clock-alarm-with-buzzer
 Digital clock implemented in vhdl for the Basys 3 Board from Digilent. Small project to complete the [VHDL class](http://legacy.fime.uanl.mx/subdireccion_posgrado/MIOE/PA/Implementacion%20en%20VHDL.pdf) of the Master degree program Master in Engineering of Electrical engineering registered at the [Facultad de Mecanica y Electrica (FIME)](https://www.fime.uanl.mx/) of the [UNIVERSIDAD AUTONOMA DE NUEVO LEON](https://www.uanl.mx/).
 
-# Implementation
+# Power summary
+
+![power summary clock alarm](https://github.com/romybompart/Basys3-clock-alarm-with-buzzer/blob/main/images/POWER%20SUMMARY.PNG)
+
+and the schematic can be found here: [link to schematic](https://github.com/romybompart/Basys3-clock-alarm-with-buzzer/blob/main/images/schematic.pdf)
+
+# What you will see in the code
 
 1. Debouncer
 2. Decoder from binary to bcd
