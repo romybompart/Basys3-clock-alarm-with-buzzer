@@ -1,10 +1,12 @@
 # Basys3-clock-alarm-with-buzzer
-Digital clock implemented in vhdl for the Basys 3 Board from Digilent. 
+Digital clock implemented in vhdl for the Basys 3 Board from Digilent. Small project to complete the [VHDL class](http://legacy.fime.uanl.mx/subdireccion_posgrado/MIOE/PA/Implementacion%20en%20VHDL.pdf) of the Master degree program Master in Engineering of Electrical engineering registered at the [Facultad de Mecanica y Electrica (FIME)](https://www.fime.uanl.mx/) of the [UNIVERSIDAD AUTONOMA DE NUEVO LEON](https://www.uanl.mx/).
 
 # Instructions
  ############### THE BUZZER ###############
  
- Connect the buzzer to JA4
+ Connect the buzzer to JA4, you can use a simple BJT 2N2222 Transistor connected in saturation mode (emitter to GND and collector to one of the buzzer termination),
+ the other buzzer termination is connected to VCC. Remember to use a diode betweeen the emitter to collector of the BJT, the anode of the diode to the emitter and the 
+ catode to the collector to let the the current in inductance flow back to the source.  You might use a 1K ohm resistor in series with the base (I didn't use it). 
  
  ############### THE LEDS ###############
  
