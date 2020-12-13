@@ -12,10 +12,10 @@ and the schematic can be found here: [link to schematic](https://github.com/romy
 1. Debouncer
 2. Decoder from binary to bcd
 3. Decoder from bcd to 7 segment display
-4. Clock devider with multiple output frequencies
+4. Clock divider with multiple output frequencies
 5. Button menu
 6. LED animated ( shift from left to right and right to left)
-7. Buzzer alarm sound ( at 100Hz or  G#2/Ab2 ) 
+7. Buzzer alarm sound ( at 200Hz between G3	(196.00Hz) and G#3/Ab3 (207.65Hz)	) 
 
 # Instructions
  ############### THE BUZZER ###############
