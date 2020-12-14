@@ -17,6 +17,8 @@ and the schematic can be found here: [link to schematic](https://github.com/romy
 6. LED animated ( shift from left to right and right to left)
 7. Buzzer alarm sound ( at 200Hz between G3	(196.00Hz) and G#3/Ab3 (207.65Hz)	) 
 
+# Project video  
+[![Clock Alarm Basys 3](https://img.youtube.com/vi/IS06bHoTYo8/0.jpg)](https://youtu.be/IS06bHoTYo8)
 # Instructions
  ############### THE BUZZER ###############
  
